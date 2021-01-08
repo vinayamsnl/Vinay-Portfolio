@@ -6,13 +6,13 @@ A fintech start-up wants to:
 * Understand the engagement behavior of their customers and 
 * Build a model to predict the chances of customer churn using their customers data along with transactions, notifications data containing notifications to customers and devices data that of their customers are using for transactions.
 
-## Data files used for analysis
-* Users data 
-* Transactions
+## Data 
+* Users - Customers attributes 
+* Transactions - Transactions details
 * Notification - all the notifications sent to users and
-* Devices
+* Devices - Type of device a customer is using 
 
-###  1. Users
+####  1. Users
 * 'user_id'
 * 'birth_year'
 * 'country',
@@ -21,21 +21,21 @@ A fintech start-up wants to:
 * 'num_successful_referrals'
 * 'engaged' - engagement index
 
-###  2. Transactions data
+####  2. Transactions
 * 'transaction_id'
 * 'transactions_type'
 * 'amount_usd'
 * 'user_id'
 * 'created_date'- transaction date
 
-###  3. Notifications 
+####  3. Notifications 
 * ''reason',
 * channel',
 * 'status',
 * 'user_id', 
 * 'created_date' - notification date
 
-###  4. Devices 
+####  4. Devices 
 * 'user_id'
 * 'brand'
 
