@@ -7,10 +7,10 @@ A fintech start-up wants to:
 * Build a model to predict the chances of customer churn using their customers data along with transactions, notifications data containing notifications to customers and devices data that of their customers are using for transactions.
 
 ## Data 
-* Users - Customers attributes 
-* Transactions - Transactions details
-* Notification - all the notifications sent to users and
-* Devices - Type of device a customer is using 
+* Users - customers attributes 
+* Transactions - transactions attributes
+* Notification - details of notifications sent to users
+* Devices - device type details
 
 ####  1. Users
 * 'user_id'
