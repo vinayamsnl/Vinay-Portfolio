@@ -12,7 +12,7 @@ A fintech start-up wants to:
 * Notification - all the notifications sent to users and
 * Devices
 
-### Users data columns
+###  1. Users
 * 'user_id'
 * 'birth_year'
 * 'country',
@@ -20,3 +20,22 @@ A fintech start-up wants to:
 * 'num_contacts' - number of contacts in account
 * 'num_successful_referrals'
 * 'engaged' - engagement index
+
+###  2. Transactions data
+* 'transaction_id'
+* 'transactions_type'
+* 'amount_usd'
+* 'user_id'
+* 'created_date'- transaction date
+
+###  3. Notifications 
+* ''reason',
+* channel',
+* 'status',
+* 'user_id', 
+* 'created_date' - notification date
+
+###  4. Devices 
+* 'user_id'
+* 'brand'
+
