@@ -38,4 +38,3 @@ A fintech start-up wants to:
 ####  4. Devices 
 * 'user_id'
 * 'brand'
-
