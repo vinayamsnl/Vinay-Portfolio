@@ -1,6 +1,6 @@
 # Vinay_Portfolio
 
-## Data Science Project Examples
+## Data Science Project example
 # Project 1: Customer engagement analysis
 A fintech start-up wants to:
 * Understand the engagement behavior of their customers and 
