@@ -2,7 +2,7 @@
 
 ## Data Science Project examples
 
-# [Project 1: Data Science example: Customer engagement analysis](https://github.com/vinayamsnl/Customer-Analysis-Project)
+# [Project 1: Data Science example: Customer engagement analysis (Logistic Regression)](https://github.com/vinayamsnl/Customer-Analysis-Project)
 
 Objective: A fintech start-up wants to:
 * Understand the engagement behavior of their customers and 
