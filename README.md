@@ -13,11 +13,10 @@
 
 # [Project 2: Data Science example: Sales Analysis - EDA and Model (Regression and XGBoost)](https://github.com/vinayamsnl/Vinay_Portfolio/tree/master)
 
-The objective of this example is quantitative assessement of the effect of external factors on beer sales. 
-
-## Data
-The (artifical) dataset 'Beverage sales data.csv'contains the follwoing values for each day of 2019:
-* Number of crates of beers sold
-* Hours of daylight
-* Public holiday (0 or 1)
-* Mean temperature in °C
+* In this example beer sales data and quantitatively assessed the impact of features like average day temperature, hours of day light and hoiday indicator
+* Analyzed the correlation between beer sales, hours of daylight, average temprature. 
+* Identified the problem of multicollinearity
+* Built regression model and identified key important features impact beer sales
+* Built two regression model using statsmodel library, one with highly multicollinear variables and second after excluding one of multicollinear variable
+* Created new features (time series based) that could possibly impact the sales with
+* Built a Xgboost regression model and identified list of top feature impacting bear sales
