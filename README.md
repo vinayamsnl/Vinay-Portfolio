@@ -16,8 +16,10 @@ Objective: A fintech start-up wants to:
 
 # [Project 2: Data Science example: Sales Analysis - EDA and Model (Regression and XGBoost)](https://github.com/vinayamsnl/Vinay_Portfolio/tree/master)
 
-The objective of this example is quantitative assessement of the effect of external factors on beer sales. The (artifical) dataset 'Beverage sales data.csv'contains the follwoing values for each day of 2019:
+The objective of this example is quantitative assessement of the effect of external factors on beer sales. 
 
+## Data
+The (artifical) dataset 'Beverage sales data.csv'contains the follwoing values for each day of 2019:
 * Number of crates of beers sold
 * Hours of daylight
 * Public holiday (0 or 1)
