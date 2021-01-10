@@ -20,3 +20,5 @@
 * Built two regression model using statsmodel library, one with highly multicollinear variables and second after excluding one of multicollinear variable
 * Created new features (time series based) that could possibly impact the sales with
 * Also built a Xgboost regression model and produced a list of top feature impacting bear sales
+
+![](https://github.com/vinayamsnl/Vinay_Portfolio/blob/master/Unknown.png)
