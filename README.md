@@ -13,7 +13,7 @@
 
 # [Project 2: Data Science example: Sales Analysis - EDA and Model (Regression and XGBoost)](https://github.com/vinayamsnl/Vinay_Portfolio/tree/master)
 
-* In this example beer sales data and quantitatively assessed the impact of features like average day temperature, hours of day light and hoiday indicator
+* In this example I analysed beer sales data and quantitatively assessed the impact of features like average day temperature, hours of day light and hoiday indicator
 * Analyzed the correlation between beer sales, hours of daylight, average temprature. 
 * Identified the problem of multicollinearity
 * Built regression model and identified key important features impact beer sales
