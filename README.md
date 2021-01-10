@@ -22,3 +22,4 @@
 * Also built a Xgboost regression model and produced a list of top feature impacting bear sales
 
 ![](https://github.com/vinayamsnl/Vinay_Portfolio/blob/master/Unknown.png)
+![](https://github.com/vinayamsnl/Customer_Analysis-Project/blob/main/xgboost.png)
