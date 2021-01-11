@@ -2,7 +2,7 @@
 
 ## Data Science Project examples
 
-# [Project 1: Data Science example: Sales Analysis - EDA and Model (Regression and XGBoost)](https://github.com/vinayamsnl/Vinay_Portfolio/tree/master)
+# [Project 1: Sales Analysis - EDA and Model (Regression and XGBoost)](https://github.com/vinayamsnl/Vinay_Portfolio/tree/master)
 
 * In this example I analysed beer sales data and quantitatively assessed the impact of features like average day temperature, hours of day light and holiday indicator
 * Analyzed the correlation between beer sales, hours of daylight, average temprature. 
@@ -16,7 +16,7 @@
 ![](https://github.com/vinayamsnl/Customer_Analysis-Project/blob/main/xgboost.png)
 
 
-# [Project 2: Data Science example: Customer engagement analysis (Logistic Regression)](https://github.com/vinayamsnl/Customer-Analysis-Project)
+# [Project 2: Customer engagement analysis (Logistic Regression)](https://github.com/vinayamsnl/Customer-Analysis-Project)
 
 * In this example I analysed a fin-tech customers and transactions data to analyse their customers usage patterns 
 * Prepared analysis data using customers data, transaction data, notification data and device data to get insight into customers usage patterns and engagement levels
