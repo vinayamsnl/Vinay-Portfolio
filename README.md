@@ -17,8 +17,12 @@
 
 # [Project 2: Cancer Tumour Classification](https://github.com/vinayamsnl/Data-Science-Projects)
 
-* The objective of this example predicting whether the cancer diagnosis is benign or malignant based on features drived from cells images
-* Around 30 features are used to classify cases in malignant and benign tumor types
+* In this example I analyse cancer tumour data compreses of 30 features derived from tumour cell images and built a classification model to classify malignant and benign tumour types 
+* Prepared data and visualised target and predictor variables
+* Built classification model using SVM (Support Vector Machine) with 95% plus accuracy
+* Also impemented model parameter tunning to detec best model paraters to improve model's accuracy
+
+![](https://github.com/vinayamsnl/Data-Science-Projects/blob/main/confusion%20matrix.png)
 
 # [Project 3: Customer engagement analysis (Logistic Regression)](https://github.com/vinayamsnl/Customer-Analysis-Project)
 
