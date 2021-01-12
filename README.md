@@ -20,7 +20,7 @@
 * Prepared data for model training and visualised target and predictor variables
 * Built classification model using SVM (Support Vector Machine) with 95% plus accuracy
 * Also impemented model parameter tunning by detecting best model parameters to improve model's accuracy
-* Produced model statistics such as recall, precesion, f1-score and accuracy 
+* Produced model performance statistics such as recall, precesion, f1-score and accuracy 
 
 ![](https://github.com/vinayamsnl/Data-Science-Projects/blob/main/confusion%20matrix.png)
 
