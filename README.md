@@ -2,7 +2,7 @@
 
 ## Data Science Project examples
 
-# [Project 1: Identify External Features Impacting Product Sales (Correlation, Regression and XGBoost)](https://github.com/vinayamsnl/Vinay_Portfolio/tree/master)
+# [Project 1: Identify External Features Affecting Product Sales (Correlation, Regression and XGBoost)](https://github.com/vinayamsnl/Vinay_Portfolio/tree/master)
 
 * In this example I analysed beer sales data and quantitatively assessed the impact of features like average day temperature, hours of day light and holiday indicator
 * Analyzed correlation between beer sales, hours of daylight, average temprature. Also detected the problem of multicollinearity
@@ -12,15 +12,14 @@
 * Built a Xgboost regression model with new features and produced a list of top feature impacting bear sales
 
 ![](https://github.com/vinayamsnl/Vinay_Portfolio/blob/master/Unknown.png)
-![](https://github.com/vinayamsnl/Customer_Analysis-Project/blob/main/xgboost.png)
 
 
 # [Project 2: Cancer Tumour Classification](https://github.com/vinayamsnl/Data-Science-Projects)
 
-* In this example I analyse cancer tumour data compreses of 30 features derived from tumour cell images and built a classification model to classify malignant and benign tumour types 
-* Prepared data and visualised target and predictor variables
+* In this example I analysed cancer tumours data comprises of 30 features derived from cancer cell images and built a classification model to classify malignant and benign cancer tumour types 
+* Prepared data for model training and visualised target and predictor variables
 * Built classification model using SVM (Support Vector Machine) with 95% plus accuracy
-* Also impemented model parameter tunning to detec best model paraters to improve model's accuracy
+* Also impemented model parameter tunning by detecting best model parameters to improve model's accuracy
 * Produced model statistics such as recall, precesion, f1-score and accuracy 
 
 ![](https://github.com/vinayamsnl/Data-Science-Projects/blob/main/confusion%20matrix.png)
