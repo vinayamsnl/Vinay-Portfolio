@@ -17,8 +17,6 @@
 
 # [Project 2: Cancer Tumour Classification](https://github.com/vinayamsnl/Vinay_Portfolio/tree/master)
 
-## Objective: 
-
 * The objective of this example predicting whether the cancer diagnosis is benign or malignant based on features drived from cells images
 * Around 30 features are used to classify cases in malignant and benign tumor types
 
