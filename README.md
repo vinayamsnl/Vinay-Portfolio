@@ -15,7 +15,7 @@
 ![](https://github.com/vinayamsnl/Customer_Analysis-Project/blob/main/xgboost.png)
 
 
-# 2. [Cancer Tumour Classification](https://github.com/vinayamsnl/Vinay_Portfolio/tree/master)
+# [Project 2: Cancer Tumour Classification](https://github.com/vinayamsnl/Vinay_Portfolio/tree/master)
 
 ## Objective: 
 
