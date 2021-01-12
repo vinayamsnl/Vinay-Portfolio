@@ -2,7 +2,7 @@
 
 ## Data Science Project examples
 
-# [Project 1: Analyse the Impact of External Feature on Product Sales (Correlation, Regression and XGBoost)](https://github.com/vinayamsnl/Vinay_Portfolio/tree/master)
+# [Project 1: Analyse The Impact Of External Features On Product Sales (Correlation, Regression and XGBoost)](https://github.com/vinayamsnl/Vinay_Portfolio/tree/master)
 
 * In this example I analysed beer sales data and quantitatively assessed the impact of features like average day temperature, hours of day light and holiday indicator
 * Analyzed correlation between beer sales, hours of daylight, average temprature. Also detected the problem of multicollinearity
