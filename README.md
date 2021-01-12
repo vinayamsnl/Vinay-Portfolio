@@ -2,13 +2,13 @@
 
 ## Data Science Project examples
 
-# [Project 1: Identify External Features Affecting Product Sales (Correlation, Regression and XGBoost)](https://github.com/vinayamsnl/Data-Science-Projects)
+# [Project 1: Identify External Features Effecting Product Sales (Correlation, Regression and XGBoost)](https://github.com/vinayamsnl/Data-Science-Projects)
 
 * In this example I analysed beer sales data and quantitatively assessed the impact of features like average day temperature, hours of day light and holiday indicator
 * Analyzed correlation between beer sales, hours of daylight, average temprature. Also detected the problem of multicollinearity
 * Built a regression model with given features impacting beer sales and used this model to predicte next months sales 
 * Explored how multicollinearity effect model by building two regression models (statsmodel library), one with highly collinear variables and another after excluding one of the collinear variables
-* Created new features (time series based) that could possibly impact the sales
+* Created new features (time based) that could possibly effect the sales
 * Built a Xgboost regression model with new features and produced a list of top feature impacting bear sales
 
 ![](https://github.com/vinayamsnl/Vinay_Portfolio/blob/master/Unknown.png)
