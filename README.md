@@ -14,7 +14,7 @@
 ![](https://github.com/vinayamsnl/Vinay_Portfolio/blob/master/Unknown.png)
 
 
-# [Project 2: Cancer Tumour Classification](EDA and SVM Model)(https://github.com/vinayamsnl/Data-Science-Projects)
+# [Project 2: Cancer Tumour Classification (EDA and SVM Model)](https://github.com/vinayamsnl/Data-Science-Projects)
 
 * In this example I analysed cancer tumours data comprises of 30 features derived from cancer cell images and built a classification model to classify malignant and benign cancer tumour types 
 * Prepared data for model training and visualised target and predictor variables
