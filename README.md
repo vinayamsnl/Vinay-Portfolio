@@ -11,7 +11,7 @@
 * Created new features (time based) that could possibly effect the sales
 * Built a Xgboost regression model with new features and produced a list of top feature impacting bear sales
 
-![](/master/Unknown.png)
+![](/Images/Unknown.png)
 
 
 # [Project 2: Cancer Tumour Classification (EDA and SVM Model)](https://github.com/vinayamsnl/Data-Science-Projects)
