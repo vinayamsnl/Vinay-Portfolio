@@ -1,6 +1,6 @@
 # Vinay_Portfolio
 
-## Data Science Project examples
+# Data Science Project examples
 
 # [Project 1: Identify External Features Affecting Product Sales (Correlation, Regression and XGBoost)](https://github.com/vinayamsnl/Data-Science-Projects)
 
@@ -22,7 +22,7 @@
 * Also impemented model parameter tunning by detecting best model parameters to improve model's accuracy
 * Produced model performance statistics such as recall, precesion, f1-score and accuracy 
 
-![](/main/confusion%20matrix.png)
+![](https://github.com/vinayamsnl/Vinay-Portfolio/blob//Images/confusion%20matrix.png)
 
 # [Project 3: Customer engagement analysis (Logistic Regression)](https://github.com/vinayamsnl/Customer-Analysis-Project)
 
