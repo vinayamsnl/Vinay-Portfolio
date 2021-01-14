@@ -32,5 +32,5 @@
 * Performed variable binning for categorical variables with large number of categories
 * Built a logistic regressionmodel to predict the chances of customer churn using their customers data along with transactions, notifications data containing notifications to customers and devices data 
 
-![](/Images/xgboost.png)
+![](/)
 
