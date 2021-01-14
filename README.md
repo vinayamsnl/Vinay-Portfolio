@@ -2,7 +2,7 @@
 
 # Data Science Project examples
 
-# [Project 1: Identify External Features Affecting Product Sales (Correlation, Regression and XGBoost)](https://github.com/vinayamsnl/Data-Science-Projects)
+## [Project 1: Identify External Features Affecting Product Sales (Correlation, Regression and XGBoost)](https://github.com/vinayamsnl/Data-Science-Projects)
 
 * In this example I analysed beer sales data and quantitatively assessed the impact of features like average day temperature, hours of day light and holiday indicator
 * Analyzed correlation between beer sales, hours of daylight, average temprature. Also detected the problem of multicollinearity
@@ -14,7 +14,7 @@
 ![](/Images/Regression.png)
 
 
-# [Project 2: Cancer Tumour Classification (EDA and SVM Model)](https://github.com/vinayamsnl/Data-Science-Projects)
+## [Project 2: Cancer Tumour Classification (EDA and SVM Model)](https://github.com/vinayamsnl/Data-Science-Projects)
 
 * In this use case I analysed cancer tumours data comprises of 30 features derived from cancer cell images and built a classification model to classify malignant and benign cancer tumour types 
 * Prepared data for model training and visualised target and predictor variables
@@ -24,7 +24,7 @@
 
 ![](/Images/confusion_matrix.png)
 
-# [Project 3: Customer engagement analysis (Logistic Regression)](https://github.com/vinayamsnl/Customer-Analysis-Project)
+## [Project 3: Customer engagement analysis (Logistic Regression)](https://github.com/vinayamsnl/Customer-Analysis-Project)
 
 * In this case study I analysed a fin-tech customers and transactions data to analyse their customers usage patterns 
 * Prepared analysis data using customers data, transaction data, notification data and device data to get insight into customers usage patterns and engagement levels
