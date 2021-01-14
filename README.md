@@ -22,7 +22,7 @@
 * Also impemented model parameter tunning by detecting best model parameters to improve model's accuracy
 * Produced model performance statistics such as recall, precesion, f1-score and accuracy 
 
-![](https://github.com/vinayamsnl/Vinay-Portfolio/blob/Images/confusion%20matrix.png)
+![](https://github.com/vinayamsnl/Vinay-Portfolio/blob/master/Images/confusion%20matrix.png)
 
 # [Project 3: Customer engagement analysis (Logistic Regression)](https://github.com/vinayamsnl/Customer-Analysis-Project)
 
@@ -32,5 +32,5 @@
 * Performed variable binning for categorical variables with large number of categories
 * Built a logistic regressionmodel to predict the chances of customer churn using their customers data along with transactions, notifications data containing notifications to customers and devices data 
 
-![](/main/ROC.png)
+![](/master/Images/ROC.png)
 
