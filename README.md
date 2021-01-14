@@ -16,7 +16,7 @@
 
 # [Project 2: Cancer Tumour Classification (EDA and SVM Model)](https://github.com/vinayamsnl/Data-Science-Projects)
 
-* In this example I analysed cancer tumours data comprises of 30 features derived from cancer cell images and built a classification model to classify malignant and benign cancer tumour types 
+* In this use case I analysed cancer tumours data comprises of 30 features derived from cancer cell images and built a classification model to classify malignant and benign cancer tumour types 
 * Prepared data for model training and visualised target and predictor variables
 * Built classification model using SVM (Support Vector Machine) with 95% plus accuracy
 * Also impemented model parameter tunning by detecting best model parameters to improve model's accuracy
@@ -26,7 +26,7 @@
 
 # [Project 3: Customer engagement analysis (Logistic Regression)](https://github.com/vinayamsnl/Customer-Analysis-Project)
 
-* In this example I analysed a fin-tech customers and transactions data to analyse their customers usage patterns 
+* In this case study I analysed a fin-tech customers and transactions data to analyse their customers usage patterns 
 * Prepared analysis data using customers data, transaction data, notification data and device data to get insight into customers usage patterns and engagement levels
 * Performed exploratory data analysis to identify the important features effecting the customer engagment using Weight of Evidence (WOE) and Information Value(IV)
 * Performed variable binning for categorical variables with large number of categories
