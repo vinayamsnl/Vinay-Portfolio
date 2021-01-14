@@ -11,7 +11,7 @@
 * Created new features (time based) that could possibly effect the sales
 * Built a Xgboost regression model with new features and produced a list of top feature impacting bear sales
 
-![](https://github.com/vinayamsnl/Vinay_Portfolio/blob/master/Unknown.png)
+![](/master/Unknown.png)
 
 
 # [Project 2: Cancer Tumour Classification (EDA and SVM Model)](https://github.com/vinayamsnl/Data-Science-Projects)
@@ -22,7 +22,7 @@
 * Also impemented model parameter tunning by detecting best model parameters to improve model's accuracy
 * Produced model performance statistics such as recall, precesion, f1-score and accuracy 
 
-![](https://github.com/vinayamsnl/Data-Science-Projects/blob/main/confusion%20matrix.png)
+![](/main/confusion%20matrix.png)
 
 # [Project 3: Customer engagement analysis (Logistic Regression)](https://github.com/vinayamsnl/Customer-Analysis-Project)
 
@@ -32,5 +32,5 @@
 * Performed variable binning for categorical variables with large number of categories
 * Built a logistic regressionmodel to predict the chances of customer churn using their customers data along with transactions, notifications data containing notifications to customers and devices data 
 
-![](https://github.com/vinayamsnl/Customer-Engagement-Project/blob/main/ROC.png)
+![](/main/ROC.png)
 
