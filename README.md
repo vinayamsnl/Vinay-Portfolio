@@ -26,9 +26,9 @@
 
 ## [Project 3: Customer engagement analysis (Logistic Regression)](https://github.com/vinayamsnl/Customer-Analysis-Project)
 
-* In this case study I analysed a fin-tech customers and transactions data to analyse their customers usage patterns 
-* Prepared analysis data using customers data, transaction data, notification data and device data to get insight into customers usage patterns and engagement levels
-* Performed exploratory data analysis to identify the important features effecting the customer engagment using Weight of Evidence (WOE) and Information Value(IV)
+* In this case study I analysed a fin-tech company's customers and transactions data to get insight into customer enegagment with their product
+* Prepared data related customers, transaction , notifications and devices to get insight into customers usage patterns and types of engagements
+* Deep dived into data by perforing exploratory data analysis to identify the important features effecting the customer engagement using Weight of Evidence (WOE) and Information Value(IV)
 * Performed variable binning for categorical variables with large number of categories
 * Built a logistic regressionmodel to predict the chances of customer churn using their customers data along with transactions, notifications data containing notifications to customers and devices data 
 
