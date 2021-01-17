@@ -17,7 +17,7 @@
 ## [Project 2: Cancer Tumour Classification (EDA and SVM Model)](https://github.com/vinayamsnl/Data-Science-Projects)
 
 * In this use case I analysed cancer tumours data comprises of 30 features derived from cancer cell images and built a classification model to classify malignant and benign cancer tumour types 
-* Performed EDA and Visualised target and predictor variables. Prepared data for model training and validating.
+* Performed EDA and visualised target and predictor variables. Prepared data for model training and validating.
 * Built classification model using SVM (Support Vector Machine-95% plus accuracy).
 * Also impemented model parameter tunning to detect best model parameters to improve model's accuracy
 * Produced model performance statistics such as Recall, Precision, F1-score and Accuracy 
