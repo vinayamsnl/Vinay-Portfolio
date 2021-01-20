@@ -24,7 +24,14 @@
 
 ![](/Images/confusion_matrix.png)
 
-## [Project 3: Customer engagement analysis (Logistic Regression)](https://github.com/vinayamsnl/Customer-Analysis-Project)
+## [Project 3: Customer churn prediction for finance subscription product](https://github.com/vinayamsnl/Data-Science-Projects)
+* The objective of this case study is to build a model to predict the customers which are likely to churn by analysing customers financial habits 
+* Analysed product related data comprises of customers finances details and how customers are handeling their finances using the product.
+*
+*
+
+
+## [Project 4: Customer engagement analysis (Logistic Regression)](https://github.com/vinayamsnl/Customer-Analysis-Project)
 
 * In this case study I analysed a fin-tech company's customers and transactions data to get insight into customer enegagment with their product
 * Prepared data related to customers (demographics and other details) and transactions to get insight into customers usage patterns and types of engagements
