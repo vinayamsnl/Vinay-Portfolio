@@ -26,8 +26,8 @@
 
 ## [Project 3: Customer churn prediction for finance subscription product](https://github.com/vinayamsnl/Data-Science-Projects)
 * The objective of this case study is to build a model to predict the customers which are likely to churn by analysing customers financial habits 
-* Analysed product related data comprises of customers finances details and how customers are handeling their finances using the product.
-*
+* Analysed product related data consists of customers finances details and how customers are handeling their finances using the product
+* Visualised explanatory variables and relationship between explanatory and target churn variable
 *
 
 
