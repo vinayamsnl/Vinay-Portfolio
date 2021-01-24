@@ -9,7 +9,7 @@
 * Built a regression model with given features impacting beer sales and used this model to predicte next months sales 
 * Explored how multicollinearity effect model by building two regression models (statsmodel library), one with highly collinear variables and another after excluding one of the collinear variables
 * Created new features (time based) that could effect the sales
-* Built a Xgboost regression model with new features and produced a list of top feature impacting bear sales
+* Built a Xgboost model with new features and produced a list of top feature impacting bear sales
 
 ![](/Images/Regression.png)
 
