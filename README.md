@@ -28,7 +28,7 @@
 * The objective of this case study is to build a model to predict the customers which are likely to churn by analysing customers financial habits 
 * Analysed product related data consists of customers finances details and how customers are handeling their finances using the product
 * Visualised explanatory variables and relationship between explanatory and target churn variable
-*
+* Built logistic regression model using K-fold cross validation technique  
 
 
 ## [Project 4: Customer engagement analysis (Logistic Regression)](https://github.com/vinayamsnl/Customer-Analysis-Project)
